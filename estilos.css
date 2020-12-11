@@ -1,62 +1,37 @@
-body { 
-    background: #273c75;
-    color: rgb(250, 216, 82);
-    text-align: center;
-}
-img{
-    width: 200px;
+body{
+    background-color: rgb(2, 2, 36);
 }
 header {
-    color: darkgrey;
+    background: rgb(47, 56, 73);
+    padding: 10px;
+    margin-bottom: 10px;
 }
-h1 {
-    color: darkgrey;
-    font-size: 30px;
-    font-family: fantasy;
-    font-weight: lighter;
-}
-div {
-    background: #192a56;
-    widows: 60px;
-    margin: 40px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding: 50px;
-}
-.container {
-    padding: 50px;
-    font: bold 20px;
-    font-family: Impact;
-    color: cornflowerblue;
-    display: block;
-    list-style: none;
-}
-.container-fluid {
-    margin: 20px;
-    text-align: left;
-    width: 600px;
-    float: left;
-    }
-
 article{
-    background: rgb(79, 81, 88);
-
+    background-color: rgb(2, 2, 36);
+    color: rosybrown;
 }
-article footer {
-    text-align: right;
+aside{
+    background-color: rgb(58, 56, 56);
 }
-
-.lado{
-    width: 200px;
-    text-align: right;
-    list-style: none;
-    float: right;
-    margin: 20px;
+footer{
+    background-color: darkgoldenrod;
+}
+#logo {
+    background-color: rgb(2, 2, 36);
     margin-top: 30px;
-    font:bold;
-    font-family: impact;
+    float:right;
 }
-.pie{
-    clear: both;
-    text-align: center;
+.carousel-item{
+margin-top: 10px;
+margin-bottom: 10px;
+margin-left: 200px;
+margin-right: 10px;
+}
+video{
+    width: 400px;
+}
+footer{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: grey;
+    background-color: rgb(34, 32, 32);
 }
