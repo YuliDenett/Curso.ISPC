@@ -1,25 +1,21 @@
-body{
-    background-color: rgb(2, 2, 36);
-}
 header {
-    background: rgb(47, 56, 73);
+   background-color: rgb(2, 2, 36);
     padding: 10px;
     margin-bottom: 10px;
 }
+
 article{
     background-color: rgb(2, 2, 36);
     color: rosybrown;
 }
-aside{
-    background-color: rgb(58, 56, 56);
-}
+
 footer{
     background-color: darkgoldenrod;
 }
 #logo {
     background-color: rgb(2, 2, 36);
     margin-top: 30px;
-    float:right;
+    text-align: center;
 }
 .carousel-item{
 margin-top: 10px;
@@ -32,6 +28,16 @@ video{
 }
 footer{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: grey;
+    color: rgb(2, 2, 36);
     background-color: rgb(34, 32, 32);
+}
+#pies{
+        text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#fotos{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
